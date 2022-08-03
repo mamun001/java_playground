@@ -1,6 +1,8 @@
 
 // Tested on jdoodle
 
+// CREDIT: Tutorial Point
+
 // CLASS
 public class Main {
 

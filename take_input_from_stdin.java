@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 // Tested on Jdoodle
 
+
+// CREDIT Derek Banas
+
 //CLASS
 public class Main {
     
